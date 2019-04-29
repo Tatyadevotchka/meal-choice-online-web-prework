@@ -1,2 +1,2 @@
 def Meal Choice
-  puts 
+  puts "Meat"
